@@ -55,6 +55,6 @@ Once the installation is completed, create a conda environment with the command
 > conda create -n py3_ml python=3.6 anaconda
 
 Now, we need to attach the newly created conda env to jupyter
-> python -m ipykernel install --user --name py3_ml --display-name "Python3_ml"
+> python -m ipykernel install --user --name py3_ml --display-name "python3_ml"
 
 Whenever we're going to use jupyter, please make sure we use this new kernel, `python3_ml`.
