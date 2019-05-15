@@ -14,3 +14,6 @@ Hi, I'm listing down all the publicly available books along with their links, wh
 ## Deep Learning
 - [Deep Learning](https://www.deeplearningbook.org/)
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
+
+## Mathematics
+- [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
