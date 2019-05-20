@@ -11,11 +11,11 @@ Hello folks, I’m planning to initiate a series of (long running) ML/Deep Learn
 ##### Machine Learning:
 - General concepts (cross validation, grid search etc.)
 - Supervised learning:
- 	- Naive Bayes
- 	- Linear regression
+ 	- ~Naive Bayes~
+ 	- ~Linear regression~
  	- Logistic Regression
  	- Decision Trees
- 	- K-nearest Neighbours
+ 	- ~K-nearest Neighbours~
  	- SVM
 - Unsupervised learning:
 	- K-means clustering
