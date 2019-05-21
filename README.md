@@ -9,7 +9,7 @@ Hello folks, I’m planning to initiate a series of (long running) ML/Deep Learn
 - Optimization
 
 ##### Machine Learning:
-- General concepts (cross validation, grid search etc.)
+- ~General concepts (cross validation, grid search etc.)~
 - Supervised learning:
  	- ~Naive Bayes~
  	- ~Linear regression~
