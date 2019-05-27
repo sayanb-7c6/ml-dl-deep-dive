@@ -18,8 +18,8 @@ Hello folks, I’m planning to initiate a series of (long running) ML/Deep Learn
  	- ~K-nearest Neighbours~
  	- SVM
 - Unsupervised learning:
-	- K-means clustering
-	- mean-shift clustering
+	- ~K-means clustering~
+	- ~mean-shift clustering~
 	- SVD
 	- Bayesian Learning
 	- A/B testing
