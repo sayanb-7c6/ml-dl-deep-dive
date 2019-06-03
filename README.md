@@ -13,7 +13,7 @@ Hello folks, I’m planning to initiate a series of (long running) ML/Deep Learn
 - Supervised learning:
  	- ~Naive Bayes~
  	- ~Linear regression~
- 	- Logistic Regression
+ 	- ~Logistic Regression~
  	- Decision Trees
  	- ~K-nearest Neighbours~
  	- SVM
