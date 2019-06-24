@@ -14,7 +14,7 @@ Hello folks, I’m planning to initiate a series of (long running) ML/Deep Learn
  	- ~Naive Bayes~
  	- ~Linear regression~
  	- ~Logistic Regression~
- 	- ~Decision Trees~
+ 	- ~Decision Tree, Random Forest~
  	- ~K-nearest Neighbours~
  	- SVM
 - Unsupervised learning:
