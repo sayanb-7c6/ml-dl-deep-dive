@@ -31,3 +31,6 @@
 
 ### Mean-shift Clustering
 - [Mean Shift Intro](https://www.youtube.com/watch?v=3ERPpzrDkVg)
+
+### Hierarchical Clustering
+- [Basics of hierarchical clustering](https://www.youtube.com/watch?v=7xHsRkOdVwo)
