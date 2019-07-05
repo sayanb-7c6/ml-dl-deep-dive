@@ -15,7 +15,7 @@ Hello folks, I’m planning to initiate a series of (long running) ML/Deep Learn
  	- ~Logistic Regression~
  	- ~Decision Tree, Random Forest~
  	- ~K-nearest Neighbours~
- 	- SVM
+ 	- ~SVM~
 - **Unsupervised learning**:
 	- ~K-means clustering~
 	- ~mean-shift clustering~
