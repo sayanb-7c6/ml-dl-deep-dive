@@ -34,3 +34,4 @@
 
 ### Hierarchical Clustering
 - [Basics of hierarchical clustering](https://www.youtube.com/watch?v=7xHsRkOdVwo)
+- [Hierarchical clustering - Stanford](https://www.youtube.com/watch?v=rg2cjfMsCk4)
