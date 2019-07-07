@@ -34,10 +34,7 @@ Hello folks, I’m planning to initiate a series of (long running) ML/Deep Learn
 	- Hidden Markov Models
 	- Reinforcement Learning
 	- Recurrent Neural Networks
-	- Deep Reinforcement Learning
-	- GANs and Variational Autoencoders
-	- Computer Vision, Recommender systems.
-
+	- Deep Learning with NLP
 
 ### Sources
 We're gonna closely follow these four materials for our journey:
