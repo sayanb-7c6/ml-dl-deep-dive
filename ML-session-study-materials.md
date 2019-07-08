@@ -42,3 +42,4 @@
 - [Expectation Maximization](https://www.youtube.com/watch?v=REypj2sy_5U)
 - [Intuition behind Expectation-Maximization](https://stats.stackexchange.com/questions/72774/numerical-example-to-understand-expectation-maximization)
 - [Expectation Maximization](https://www.youtube.com/watch?v=REypj2sy_5U)
+- [Gaussian Mixture Model](https://www.youtube.com/watch?v=EWd1xRkyEog)
