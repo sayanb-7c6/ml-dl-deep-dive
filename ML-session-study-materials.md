@@ -41,5 +41,6 @@
   - [Maximum Likelihood Estimation, an example](https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1)
   - [Multivariate Gaussian Distribution](https://www.youtube.com/watch?v=YgExEVji7xs)
   - [Intuition behind Expectation-Maximization](https://stats.stackexchange.com/questions/72774/numerical-example-to-understand-expectation-maximization)
-  - [Expectation Maximization](https://www.youtube.com/watch?v=REypj2sy_5U)
+  - [Expectation Maximization - 1](https://www.youtube.com/watch?v=REypj2sy_5U)
+  - [Expectation Maximization - 2](https://www.youtube.com/watch?v=iQoXFmbXRJA)
 - [Gaussian Mixture Model](https://www.youtube.com/watch?v=EWd1xRkyEog)
