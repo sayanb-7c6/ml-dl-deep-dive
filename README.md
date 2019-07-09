@@ -45,6 +45,12 @@ We're gonna closely follow these four materials for our journey:
 * [Hands-On Machine Learning with Scikit-Learn and Tensor Flow: Concepts, Tools, and Techniques to Build Intelligent System](https://www.amazon.in/Hands-Machine-Learning-Scikit-Learn-Tensor/dp/9352135210/ref=sr_1_1?crid=1DYL86KS3B7IV&keywords=aurelien+geron&qid=1561703909&s=gateway&sprefix=aurelion%2Caps%2C270&sr=8-1)
 * [deep-learning book by Goodfellow et al](https://www.deeplearningbook.org/)
 
+If you're planning to get a stronger grasp on the math behind all of this, I'd suggest going through these three courses:
+
+* [MIT 6.041 Probabilistic Systems Analysis and Applied Probability](https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe&index=1)
+* [MIT 18.06 Linear Algebra](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
+* [MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
+
 ### Anaconda
 We'll be using Python for the duration of the course, so it'd become easier for all of us if we use the same distribution and version as we go. I'd suggest downloading anaconda python-3.7 version from this [official link](https://www.anaconda.com/distribution/). It bundles jupyter notebook, so we should be good.
 
