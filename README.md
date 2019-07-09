@@ -20,7 +20,6 @@ Hello folks, I’m planning to initiate a series of (long running) ML/Deep Learn
 	- ~K-means clustering~
 	- ~mean-shift clustering~
 	- Gaussian Mixture Model
-	- SVD
 	- Bayesian Learning
 	- A/B testing
 	- Adaptive learning
