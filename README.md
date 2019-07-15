@@ -19,7 +19,7 @@ Hello folks, I’m planning to initiate a series of (long running) ML/Deep Learn
 - **Unsupervised learning**:
 	- ~K-means clustering~
 	- ~mean-shift clustering~
-	- Gaussian Mixture Model
+	- ~Gaussian Mixture Model~
 	- Bayesian Learning
 	- A/B testing
 	- Adaptive learning
