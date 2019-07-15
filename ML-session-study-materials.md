@@ -44,3 +44,7 @@
   - [Expectation Maximization - 1](https://www.youtube.com/watch?v=REypj2sy_5U)
   - [Expectation Maximization - 2](https://www.youtube.com/watch?v=iQoXFmbXRJA)
 - [Gaussian Mixture Model](https://www.youtube.com/watch?v=EWd1xRkyEog)
+
+### Bayesian Learning
+- [Gamma and Beta Distributions](https://www.youtube.com/watch?v=J0Yzmb_PY3Y)
+- [Introduction to Bayesian Learning](https://www.youtube.com/watch?v=7192wm3NWSY&t=6s)
