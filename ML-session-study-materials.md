@@ -46,5 +46,6 @@
 - [Gaussian Mixture Model](https://www.youtube.com/watch?v=EWd1xRkyEog)
 
 ### Bayesian Learning
-- [Gamma and Beta Distributions](https://www.youtube.com/watch?v=J0Yzmb_PY3Y)
+- [Gamma Distributions](https://www.youtube.com/watch?v=J0Yzmb_PY3Y)
+- [Beta Distributions](https://www.youtube.com/watch?v=v1uUgTcInQk)
 - [Introduction to Bayesian Learning](https://www.youtube.com/watch?v=7192wm3NWSY&t=6s)
