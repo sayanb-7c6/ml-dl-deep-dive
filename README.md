@@ -22,6 +22,7 @@ Hello folks, I’m planning to initiate a series of (long running) ML/Deep Learn
 	- ~Gaussian Mixture Model~
 	- ~Bayesian Learning~
 - **Applications in NLP**:
+	- SVD
 	- TF-IDF
 	- Sentiment Analysis
 	- Latent Symantic Analysis
