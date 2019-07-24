@@ -49,3 +49,8 @@
 - [Gamma Distributions](https://www.youtube.com/watch?v=J0Yzmb_PY3Y)
 - [Beta Distributions](https://www.youtube.com/watch?v=v1uUgTcInQk)
 - [Introduction to Bayesian Learning](https://www.youtube.com/watch?v=7192wm3NWSY&t=6s)
+
+### Simple NLP Techniques using Machine Learning
+- [Singular Value Decomposition](https://www.youtube.com/watch?v=P5mlg91as1c)
+- [TF-IDF for Machine Learning](https://www.youtube.com/watch?v=4vT4fzjkGCQ)
+- [Data Science: Natural Language Processing (NLP) in Python](https://www.udemy.com/data-science-natural-language-processing-in-python/)
