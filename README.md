@@ -33,7 +33,6 @@ Hello folks, I’m planning to initiate a series of (long running) ML/Deep Learn
 	- Backpropagation
 	- Convolutional Neural Network
 	- Unsupervised Deep Learning (vanishing gradient, PCA, t-SNE etc.)
-	- NLP techniques
 	- Hidden Markov Models
 	- Reinforcement Learning
 	- Recurrent Neural Networks and its applications in NLP
