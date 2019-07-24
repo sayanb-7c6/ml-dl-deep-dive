@@ -20,9 +20,13 @@ Hello folks, I’m planning to initiate a series of (long running) ML/Deep Learn
 	- ~K-means clustering~
 	- ~mean-shift clustering~
 	- ~Gaussian Mixture Model~
-	- Bayesian Learning
-	- A/B testing
-	- Adaptive learning
+	- ~Bayesian Learning~
+- **Applications in NLP**:
+        - SVD
+	- TF-IDF
+	- Sentiment Analysis
+	- Latent Symantic Analysis
+	- Article Spinner
 - **Deep Learning**:
 	- Binary/Multi-class classification
 	- Basics of Neural Network
