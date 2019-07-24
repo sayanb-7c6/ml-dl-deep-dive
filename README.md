@@ -28,17 +28,15 @@ Hello folks, I’m planning to initiate a series of (long running) ML/Deep Learn
 	- Latent Symantic Analysis
 	- Article Spinner
 - **Deep Learning**:
-	- Binary/Multi-class classification
 	- Basics of Neural Network
+	- Binary/Multi-class classification
 	- Backpropagation
-	- Ensemble Learning (Random Forest, Adaboost etc.)
 	- Convolutional Neural Network
 	- Unsupervised Deep Learning (vanishing gradient, PCA, t-SNE etc.)
 	- NLP techniques
 	- Hidden Markov Models
 	- Reinforcement Learning
-	- Recurrent Neural Networks
-	- Deep Learning with NLP
+	- Recurrent Neural Networks and its applications in NLP
 
 ### Sources
 We're gonna closely follow these four materials for our journey:
