@@ -54,3 +54,5 @@
 - [Singular Value Decomposition](https://www.youtube.com/watch?v=P5mlg91as1c)
 - [TF-IDF for Machine Learning](https://www.youtube.com/watch?v=4vT4fzjkGCQ)
 - [Data Science: Natural Language Processing (NLP) in Python](https://www.udemy.com/data-science-natural-language-processing-in-python/)
+
+## Materials for Deep Learning
