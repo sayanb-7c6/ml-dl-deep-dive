@@ -8,7 +8,7 @@
 - [Math behind Logistic Regression](https://www.youtube.com/watch?v=EocjYP5h0cE) 
 - [Maximum Likelihood Estimation of Logistic Regression Models: Theory and Implementation](https://czep.net/stat/mlelr.pdf)
 
-### K-Nearest Neighbours, Naive Bayes Classiers
+### K-Nearest Neighbours, Naive Bayes Classifiers
 - [Data Science: Supervised Machine Learning in Python](https://www.udemy.com/data-science-supervised-machine-learning-in-python/)
 
 ### Support Vector Machines
