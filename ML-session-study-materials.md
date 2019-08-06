@@ -64,4 +64,4 @@
 - [Why the gradient is the direction of steepest ascent](https://www.youtube.com/watch?v=TEB2z7ZlRAw&list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7&index=24)
 
 ### Artificial Neural Network
-- [Deep Learning with TensorFlow 2.0](https://www.udemy.com/machine-learning-with-tensorflow-for-business-intelligence/)
+- [Deep Learning with TensorFlow 2.0](https://www.udemy.com/machine-learning-with-tensorflow-for-business-intelligence/) (Highly recommended)
