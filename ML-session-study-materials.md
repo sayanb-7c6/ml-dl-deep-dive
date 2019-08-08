@@ -62,6 +62,7 @@
 - [Gradient and graphs](https://www.youtube.com/watch?v=_-02ze7tf08)
 - [Directional derivative](https://www.youtube.com/watch?v=N_ZRcLheNv0&list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7&index=21)
 - [Why the gradient is the direction of steepest ascent](https://www.youtube.com/watch?v=TEB2z7ZlRAw&list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7&index=24)
+- [Introduction to Cross-Entropy Loss](https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss)
 
 ### Artificial Neural Network
 - [Deep Learning with TensorFlow 2.0](https://www.udemy.com/machine-learning-with-tensorflow-for-business-intelligence/) (Highly recommended)
