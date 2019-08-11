@@ -27,9 +27,9 @@ Hello folks, I’m planning to initiate a series of (long running) ML/Deep Learn
 	- ~Sentiment Analysis~
 	- ~Latent Symantic Analysis~
 - **Deep Learning**:
-	- Basics of Neural Network
-	- Binary/Multi-class classification
-	- Backpropagation
+	- ~Basics of Neural Network~
+	- ~Binary/Multi-class classification~
+	- ~Backpropagation~
 	- Convolutional Neural Network
 	- Unsupervised Deep Learning (vanishing gradient, PCA, t-SNE etc.)
 	- Hidden Markov Models
