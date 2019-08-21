@@ -23,6 +23,9 @@
 ### Decision Trees, Random Forest
 - [Decision Trees and Random Forests: A Visual Introduction For Beginners: A Simple Guide to Machine Learning with Decision Trees](https://www.amazon.in/Decision-Trees-Random-Forests-Introduction-ebook/dp/B078J8GFGC/ref=sr_1_3?keywords=decision+tree+book&qid=1561615774&s=gateway&sr=8-3)
 
+### Boosting Algorithm
+- [AdaBoost](https://www.youtube.com/watch?v=LsK-xG1cLYA)
+
 ## Materials for Unsupervised Machine Learning
 
 ### K-means Clustering
