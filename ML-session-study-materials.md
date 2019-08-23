@@ -59,6 +59,7 @@
 - [Data Science: Natural Language Processing (NLP) in Python](https://www.udemy.com/data-science-natural-language-processing-in-python/)
 
 ## Materials for Deep Learning
+For practical Deep Learning (and also for ML) I highly recommend the book: *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow* by *Aurélien Géron*. The 2nd edition is yet to be released, but a preview version is available online. It should be publicly available by the end of September. You can refer to the ML section of the book if you have the 1st edition. But for Deep Learning I recommend getting the 2nd edition as it uses Tensorflow 2.0 in the examples.
 
 ### Prerequisites
 - [Gradient](https://www.youtube.com/watch?v=tIpKfDc295M)
