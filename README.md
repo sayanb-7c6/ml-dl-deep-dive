@@ -31,11 +31,8 @@ Hello folks, I’m planning to initiate a series of (long running) ML/Deep Learn
 	- ~Basics of Neural Network~
 	- ~Binary/Multi-class classification~
 	- ~Backpropagation~
-	- Convolutional Neural Network
-	- Unsupervised Deep Learning (vanishing gradient, PCA, t-SNE etc.)
-	- Hidden Markov Models
-	- Reinforcement Learning
-	- Recurrent Neural Networks and its applications in NLP
+	- ~Convolutional Neural Network~
+	- ~Recurrent Neural Networks and its applications in NLP~
 
 ### Sources
 We're gonna closely follow these four materials for our journey:
