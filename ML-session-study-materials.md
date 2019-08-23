@@ -69,10 +69,15 @@ For practical Deep Learning (and also for ML) I highly recommend the book: *Hand
 - [Introduction to Cross-Entropy Loss](https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss)
 
 ### Artificial Neural Network
-- [Deep Learning with TensorFlow 2.0](https://www.udemy.com/machine-learning-with-tensorflow-for-business-intelligence/) (Highly recommended)
+- [Deep Learning with TensorFlow 2.0](https://www.udem[]y.com/machine-learning-with-tensorflow-for-business-intelligence/) (Highly recommended)
 
 ### Convolutional Neural Network
 - [CNN Basics](https://www.youtube.com/watch?v=V3jqNejbbfo&list=PLIfPjWrv526bX59Nwx7qiahWf_BUJWozP&index=5)
 - [Blog-1 on CNN](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/)
 - [Blog-2 on CNN](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)
 - [Backpropagation details in CNN](https://jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/)
+
+### Recurrent Neural Network
+- [RNN Basics](https://www.youtube.com/watch?v=UNmqTiOnRfg)
+- [RNN and its application to LSTM](https://www.youtube.com/watch?v=WCUNPb-5EYI)
+- [Deep Learning: Recurrent Neural Networks in Python](https://www.udemy.com/deep-learning-recurrent-neural-networks-in-python/)
