@@ -72,5 +72,6 @@
 
 ### Convolutional Neural Network
 - [CNN Basics](https://www.youtube.com/watch?v=V3jqNejbbfo&list=PLIfPjWrv526bX59Nwx7qiahWf_BUJWozP&index=5)
-- [Blog on CNN](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/)
+- [Blog-1 on CNN](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/)
+- [Blog-2 on CNN](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)
 - [Backpropagation details in CNN](https://jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/)
