@@ -69,3 +69,8 @@
 
 ### Artificial Neural Network
 - [Deep Learning with TensorFlow 2.0](https://www.udemy.com/machine-learning-with-tensorflow-for-business-intelligence/) (Highly recommended)
+
+### Convolutional Neural Network
+- [CNN Basics](https://www.youtube.com/watch?v=V3jqNejbbfo&list=PLIfPjWrv526bX59Nwx7qiahWf_BUJWozP&index=5)
+- [Blog on CNN](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/)
+- [Backpropagation details in CNN](https://jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/)
