@@ -40,8 +40,10 @@ We're gonna closely follow these four materials for our journey:
 * [CS229: Machine Learning course from stanford](http://cs229.stanford.edu/syllabus.html)
 * [fast.ai: Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
 * [lazyprogrammer-udemy](https://deeplearningcourses.com/course_order)
-* [Hands-On Machine Learning with Scikit-Learn and Tensor Flow: Concepts, Tools, and Techniques to Build Intelligent System](https://www.amazon.in/Hands-Machine-Learning-Scikit-Learn-Tensor/dp/9352135210/ref=sr_1_1?crid=1DYL86KS3B7IV&keywords=aurelien+geron&qid=1561703909&s=gateway&sprefix=aurelion%2Caps%2C270&sr=8-1)
+* [Hands-On Machine Learning with Scikit-Learn and Tensor Flow: Concepts, Tools, and Techniques to Build Intelligent System](https://www.amazon.in/Hands-Machine-Learning-Scikit-Learn-Tensor/dp/9352135210/ref=sr_1_1?crid=1DYL86KS3B7IV&keywords=aurelien+geron&qid=1561703909&s=gateway&sprefix=aurelion%2Caps%2C270&sr=8-1).
+	* (Update) The 2nd edition of this book is available now, which uses Tensorflow 2.0 for the Deep-Learning materials. I'd encourage you to pick up this book.
 * [deep-learning book by Goodfellow et al](https://www.deeplearningbook.org/)
+* [Basics of Linear Algebra for Machine Learning](https://www.mobt3ath.com/uplode/book/book-33342.pdf) This book is a good introduction to LA for practitioners.
 
 If you're planning to get a stronger grasp on the math behind all of this, I'd suggest going through these three courses:
 
