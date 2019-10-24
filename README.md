@@ -44,6 +44,7 @@ We're gonna closely follow these four materials for our journey:
 	* (Update) The 2nd edition of this book is available now, which uses Tensorflow 2.0 for the Deep-Learning materials. I'd encourage you to pick up this book.
 * [deep-learning book by Goodfellow et al](https://www.deeplearningbook.org/)
 * [Basics of Linear Algebra for Machine Learning](https://www.mobt3ath.com/uplode/book/book-33342.pdf) This book is a good introduction to LA for practitioners.
+* [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) This is a good place to get started with the essential concepts of Linear Algebra.
 
 If you're planning to get a stronger grasp on the math behind all of this, I'd suggest going through these three courses:
 
